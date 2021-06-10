@@ -3,7 +3,7 @@ package com.example.demo.model;
 import java.time.LocalDateTime;
 import java.util.List;
 
-public class Permission {
+public class Permission  {
     private String id;
     private PersonSpeedFace person;
     private String description;

@@ -2,7 +2,7 @@ package com.example.demo.model;
 
 import java.time.LocalDateTime;
 
-public class Transformation {
+public class Transformation  {
     private String id;
     private String name;
     PersonSpeedFace personSpeedFace;
